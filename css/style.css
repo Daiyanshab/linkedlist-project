@@ -1,0 +1,209 @@
+*{}
+body{}
+img{}
+html { overflow-x: hidden; }
+.header-section{
+    background: #283E4A;
+    
+    padding-top: 20px;
+    height: 59px;
+}
+
+.header-section .logo{}
+
+.header-section img{}
+.menu{}
+.menu form{
+    display-inline: block;
+
+    
+}
+
+.menu form button{
+    background: #283E4A;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 0;
+    padding: 2px 20px;
+    border-color: white !important;
+}
+.menu form span{
+    color: #ffffff;
+    padding: 0px 22px;
+    font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 14px;
+}
+#inputPassword2{
+    margin-top: -7px;
+    border-radius: 0;
+    padding-right: 19px;
+    /* width: 100%; */
+    /* color: #161719; */
+}
+.btn-primary:hover {
+    color: #e8e8e8;
+    background-color: #283E4A;
+    border-color: #ffffff;
+}
+
+.slider-section{
+    background: #434649;
+    padding-left: 290px;
+    color: white;
+    padding-top: 20px 0px !important;
+    /* margin-top: 53px; */
+}
+.slider-section .row1{
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* display: inline; */
+}
+.slider-section p{
+    display: inline;
+}
+.slider-section form{
+    display: inline-flex;
+}
+.slider-section button{
+    border-radius: 0;
+    background: #434649;
+    color: white;
+    padding-right: 28px;
+    text-align: center;
+    border-color: #ababab;
+    margin-top: 20px;
+}
+.letters{}
+a{
+    color: white;
+    padding: 0px 2px;
+    font-size: 14px;
+}
+.slider-section #inputPassword2{
+    padding-right: 42px;
+    margin-top: 24px;
+    border-radius: 0;
+}
+hr{}
+.general-section{
+    background: #434649;
+}
+.general-section .heading{
+    margin-bottom: -12px;
+    color: #ffe3e3;
+    padding-top: 26px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.general-section p{
+    color: #F2F2F2;
+}
+.general-section .nav{}
+.general-section a{
+    /* color: #e6d8d8; */
+    padding-left: 0px;
+    /* border-right: 1px solid white; */
+    font-size: 12px;
+    font-weight: 700;
+    color: #F2F2F2;
+}
+.footer-section{
+    background: #434649;
+    padding-top: 20px;
+    margin-right: -31px;
+}
+.footer-section .nav{}
+.footer-section a{
+    font-size: 12px;
+    font-weight: 500;
+}
+.footer-section img{
+    padding-top: 10px;
+}
+.main .reg-form .form-body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    padding: 0 24px;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    min-width: 0;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.form-froup{
+    background: #EDF0F3;
+    /* height: 270px; */
+    width: 419px;
+    margin-left: 161px;
+    margin: 13px 226px;
+    display: inline;
+}
+.banner-section{
+    /* margin-right: 40px; */
+    padding-left: 265px;
+    /*  border: 4px solid black;*/
+    /* margin-top: 20px; */
+    background: url(../images/linkedin.jpg);
+    /* background-repeat:no-repeat; */
+    background-size:cover;
+}
+.banner-section .heading{
+    background: white;
+}
+.form-group{}
+.banner-section p{
+    font-size: 14px;
+    color: #5F6061;
+}
+.banner-section button{
+    padding: 0px 164px;
+    border-radius: 0;
+    background: #006097;
+}
+.banner-section h3{
+    padding: 20px;
+    font-size: 26px;
+    font-weight: 400;
+    padding-bottom: 0px;
+}
+.banner-section h5{
+    padding: 7px 0px;
+    font-size: 20px;
+    font-weight: 400;
+}
+#formGroupExampleInput{width: 85%;margin-left: 31px;border-radius: 0;/* height: 19%; */}
+
+#formGroupExampleInput2{width: 85%;margin-left: 31px;border-radius: 0;}
+label{
+}
+.level1{
+    padding-right: 284px;
+}
+.level2{
+    padding-right: 284px;
+}
+.level3{
+    padding-right: 321px;
+}
+.level4{
+    padding-right: 134px;
+}
+.banner-section button{
+    margin-bottom: 11px;
+    color: white;
+    background: #1e5dc5;
+    font-size: 17px;
+    font-weight: 400;
+    border-radius: 0;
+    padding: 3px 152px;
+    border-color: #2c2cfb;
+    }
